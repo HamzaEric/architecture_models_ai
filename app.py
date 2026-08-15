@@ -49,7 +49,7 @@ with left_col:
 
     prompt = st.text_area(
         "Prompt",
-        value="A physical scale model of a modern museum, archmodel style, wooden base, studio lighting",
+        value="A physical scale model of a building, archmodel style, modern residential home, studio lighting",
         height=120
     )
 
